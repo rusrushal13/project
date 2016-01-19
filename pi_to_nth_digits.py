@@ -1,6 +1,7 @@
 '''
 Rushal Verma
-Find PI to the Nth Digit
+Find PI to the Nth Digit based on the Gauss-Legendre Algorithm.
+You can more read over Gauss-Legendre Algorithm {https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_algorithm}
 '''
 from __future__ import with_statement
 import decimal
